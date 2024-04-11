@@ -1,20 +1,20 @@
 
 # Site wide configuration
 
-title: RCL SiteBuilder
+title: Zhenze Zhao
 locale: en_US
 logo: #logo.png # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: University of Rochester Libraries
+  name: Zhenze Zhao
   avatar: #bio-photo.jpg
-  bio: An academic website builder based off of NCSU Libraries' "jekyll academic"
-  website: https://library.rochester.edu
-  email: rclfeedback@library.rochester.edu #personal email
-  twitter: RCLibraries
+  bio: ZZZ's beautiful body
+  website: #https://library.rochester.edu
+  email: jp2020213361@qmul.ac.uk #personal email
+  twitter: #RCLibraries
   linkedin: #linkedin id
-  github: rochester-rcl
+  github: fesvhtr
   orcid: #orcid id
   researchgate: #researchgate username 
   mendeley: #mendeley username 
@@ -23,8 +23,8 @@ owner:
     analytics:
     verify:
     scholar: #google scholar 'user' id 
-  facebook: rivercampuslibraries
-  instagram: rclibraries
+  facebook: #rivercampuslibraries
+  instagram: #rclibraries
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
