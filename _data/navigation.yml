@@ -2,14 +2,16 @@
 - title: Home
   url: /
 
-- title: Contact
-  url: /contact/
+- title: Publication
+  url: /publication/
 
 # - title: Presentations
 #   url: /presentations/
 
+- title: Blog
+  url: /blog/
+
 - title: Resume
   url: /resume/
 
-- title: Research
-  url: /research/
+
