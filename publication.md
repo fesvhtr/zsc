@@ -3,14 +3,16 @@ layout: page
 title: Publications
 ---
 
-**A study on the 3 a.m. hair washing technique.**
-Zhenze Zhao, Sicheng Zhang. NEYC, 2018.
+**A study on the 3 a.m. hair washing technique.**  
+<span style="font-size: small;">Zhenze Zhao, Sicheng Zhang.  
+NEYC, 2018.</span>
 
-**A study of maximum ejaculatory frequency in humans.**
-Zhenze Zhao. 2022.
+**A study of maximum ejaculatory frequency in humans.**  
+<span style="font-size: small;">Zhenze Zhao. 2022.</span>
 
-**The PUBG method of getting killed.**
-Zhenze Zhao, Yubo Wang, Ziheng Wei, Sicheng Zhang,. PUBG Mobile, 2024.
+**The PUBG method of getting killed.**  
+<span style="font-size: small;">Zhenze Zhao, Yubo Wang, Ziheng Wei, Sicheng Zhang.  
+PUBG Mobile, 2024.</span>
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,
