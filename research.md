@@ -1,10 +1,16 @@
 ---
 layout: post-index
-title: Research
+title: Publication
 ---
 
-Below you'll find explanations on how to create a site just like this and get it hosted
-  for free. 
+**A study on the 3 a.m. hair washing technique.**
+Zhenze Zhao, Sicheng Zhang. NEYC, 2018.
+
+**A study of maximum ejaculatory frequency in humans.**
+Zhenze Zhao. 2022.
+
+**The PUBG method of getting killed.**
+Zhenze Zhao, Yubo Wang, Ziheng Wei, Sicheng Zhang,. PUBG Mobile, 2024.
 
 <!-- # COMMENT EXPLAINING THIS PAGE -- 
 We're currently using this section of the site to host these tutorials,
