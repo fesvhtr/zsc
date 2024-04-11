@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publication
+title: Publications
 ---
 
 **A study on the 3 a.m. hair washing technique.**
