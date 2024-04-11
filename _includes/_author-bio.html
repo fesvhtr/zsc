@@ -13,7 +13,8 @@
   <div class="user-info">
     <h3 itemprop="name">{{ author.name }}</h3>
     <p>{{ author.bio }}</p>
-	 <a href="https://www.google.com/maps/place/Harbin+Institute+of+Technology/@45.7470436,126.6308557,17z/data=!4m14!1m7!3m6!1s0x5e447f9d2dd87cd1:0xcb3b9952a10fed6c!2sHarbin+Institute+of+Technology!8m2!3d45.7470436!4d126.6334306!16zL20vMDF2bGJx!3m5!1s0x5e447f9d2dd87cd1:0xcb3b9952a10fed6c!8m2!3d45.7470436!4d126.6334306!16zL20vMDF2bGJx?entry=ttu" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i>Harbin, China</a>
+	 <a href="https://www.google.com/maps/place/Harbin+Institute+of+Technology/@45.7470436,126.6308557,17z/data=!4m14!1m7!3m6!1s0x5e447f9d2dd87cd1:0xcb3b9952a10fed6c!2sHarbin+Institute+of+Technology!8m2!3d45.7470436!4d126.6334306!16zL20vMDF2bGJx!3m5!1s0x5e447f9d2dd87cd1:0xcb3b9952a10fed6c!8m2!3d45.7470436!4d126.6334306!16zL20vMDF2bGJx?entry=ttu" class="author-social" target="_blank">
+		 <i class="fas fa-map-marker-alt"></i>Harbin, China</a>
     {% if author.email %}<a href="mailto:{{ author.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
     {% if author.website %}<a href="{{ author.website }}" class="author-social" target="_blank"><i class="fa fa-fw fa-globe"></i> Website</a>{% endif %}
     {% if author.resume %}<a href="{{ author.resume }}" class="author-social" target="_blank"><i class="fa fa-fw fa-file-pdf-o"></i> Resume</a>{% endif %}
