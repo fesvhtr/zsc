@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: Posts
+title: Blog
 ---
 
