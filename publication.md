@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-**A study on the 3 a.m. hair washing technique.**  
+**FunQA: Towards Surprising Video Comprehension**  
 <span style="font-size: small;">Zhenze Zhao, Sicheng Zhang.  
 NEYC, 2018.</span>
 
