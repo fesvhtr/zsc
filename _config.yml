@@ -7,9 +7,9 @@ logo: #logo.png # filename of a logo image that has been placed into your images
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Zhenze Zhao
+  name: Sicheng Zhang
   avatar: https://benchmarkss.github.io/zzz/images/zzz.jpg
-  bio: ZZZ's beautiful body
+  bio: Undergraduate Student
   website: #https://library.rochester.edu
   email: jp2020213361@qmul.ac.uk #personal email
   twitter: #RCLibraries
@@ -22,7 +22,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #google scholar 'user' id 
+    scholar: exERJrYAAAAJ&h
   facebook: #rivercampuslibraries
   instagram: #rclibraries
   bing-verify:
