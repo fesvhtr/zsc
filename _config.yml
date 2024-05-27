@@ -1,14 +1,14 @@
 
 # Site wide configuration
 
-title: Sicheng Zhang 张驷乘
+title: Sicheng Zhang
 locale: en_US
 logo: #logo.png # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Sicheng Zhang
-  avatar: https://benchmarkss.github.io/zzz/images/zzz.jpg
+  avatar: https://benchmarkss.github.io/zzz/images/bio.jpg
   bio: Undergraduate Student
   website: #https://library.rochester.edu
   email: jp2020213361@qmul.ac.uk #personal email
