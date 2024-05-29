@@ -8,11 +8,11 @@ layout: resume
 
 `2020 - 2024`
 __Queen Marry University of London__
-Bachelor of Management
+Bachelor of Science in Engineering
 
 `2020 - 2024`
 __Beijing University of Posts and Telecommunications__
-Bachelor of Science in Engineering
+Bachelor of Management
 
 
 ## Experience
