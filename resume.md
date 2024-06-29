@@ -16,11 +16,11 @@ Bachelor of Management
 
 
 ## Experience
-Apr 2024 - Present: Resarch Inter in CityU, supervised by Prof. Zichao Lu  
 Mar 2023 - Present: Research Intern in MMLab@NTU, supervised by Prof. Ziwei Liu  
+Apr 2024 - Jun 2024: Resarch Intern in CityU, supervised by Prof. Zichao Lu  
 Jul 2022 - Dec 2023: Research Intern in BUPT WITS Lab, supervised by Prof. Guoshun Nan  
 Apr 2023 - Dec 2023: Engineer Intern in China Petroleum Planning and Engineering Institute, CNPC  
-Oct 2022 - Mar 2023: Engineer Intern in Siemens Ltd.  
+Oct 2022 - Mar 2023: Engineer Intern in Siemens Ltd
 
 
 
