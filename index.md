@@ -7,7 +7,7 @@ I am a first year PhD student at [Khalifa University](https://www.ku.ac.ae/). Be
 
 News
 ======
-[24.08] Join KU!
+[24.08] Join KU!  
 [24.07] FunQA is accepted to [ECCV 2024](https://eccv.ecva.net/).  
 [24.02] CUVA is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024).  
 [23.12] DocMSU is accepted to [AAAI 2024](https://aaai.org/aaai-conference/).  
