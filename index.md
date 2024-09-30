@@ -3,7 +3,7 @@ layout: home
 excerpt: "About Me..."
 ---
 
-I am a first year PhD student at [Khalifa University](https://www.ku.ac.ae/). Before that, I receiveda my BSc(Eng) and BBA degree from [Queen Mary University of London](https://www.qmul.ac.uk/) and [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), supervised by [Prof. Guoshun Nan](https://scholar.google.com/citations?user=uSykWkMAAAAJ&hl=en). From 2023, I have the opportunity to collaborate with [MMLab@NTU](https://www.mmlab-ntu.com/index.html), working closely with [Jingkang Yang](https://jingkang50.github.io/) and being supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/).
+I am a first year PhD student at [Khalifa University](https://www.ku.ac.ae/). Before that, I received my BSc(Eng) and BBA degree from [Queen Mary University of London](https://www.qmul.ac.uk/) and [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), supervised by [Prof. Guoshun Nan](https://scholar.google.com/citations?user=uSykWkMAAAAJ&hl=en). From 2023, I have the opportunity to collaborate with [MMLab@NTU](https://www.mmlab-ntu.com/index.html), working closely with [Jingkang Yang](https://jingkang50.github.io/) and being supervised by [Prof. Ziwei Liu](https://liuziwei7.github.io/).
 
 News
 ======
