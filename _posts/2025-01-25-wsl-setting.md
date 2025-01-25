@@ -36,14 +36,14 @@ export PATH=/usr/lib/wsl/lib:$PATH
 4. 重启电脑
 5. 在Windows当前用户文件夹（C:\Users\Your Usr）下创建.wslconfig文件，输入以下内容
 ```shell
-[wsl2]
-memory=96GB # 根据自己的内存大小调整
-processors=24 # 根据自己的CPU核心数调整
-[experimental]
-networkingMode=mirrored
-dnsTunneling=true
-firewall=true
-autoProxy=true
+[wsl2]  
+memory=96GB # 根据自己的内存大小调整  
+processors=24 # 根据自己的CPU核心数调整  
+[experimental]  
+networkingMode=mirrored  
+dnsTunneling=true  
+firewall=true  
+autoProxy=true  
 ```
 6. 第一次启动可以直接点击Ubuntu图标，之后可以在Windows Terminal使用 _wsl_ 命令启动
 7. 根据指示设置用户名和密码
@@ -67,10 +67,10 @@ autoProxy=true
 3. 打开Hyper-V管理器，点击右侧操作面板中的“虚拟交换机管理器”，在弹出的窗口中，选择“新建虚拟交换机”，然后选择所有的交换机类型
 4. 在Windows当前用户文件夹（C:\Users\Your Usr）下创建.wslconfig文件，输入以下内容
 ```shell
-[wsl2]
-networkingMode=bridged
-vmSwitch=WSLBridge # 与虚拟交换机名称一致
-ipv6=true # 可选
+[wsl2]  
+networkingMode=bridged  
+vmSwitch=WSLBridge # 与虚拟交换机名称一致  
+ipv6=true # 可选  
 ```
 5. 重复镜像模式的第6-8步操作
 6. 输入*ifconfig*查看IP地址，应与宿主机不同
@@ -105,13 +105,13 @@ export PATH=/usr/lib/wsl/lib:$PATH
 4. Restart the computer.
 5. Create a .wslconfig file in the current user's folder (C:\Users\Your User) in Windows and enter the following:
 ```shell
-[wsl2]
-memory=96GB # Adjust according to your system memory
-processors=24 # Adjust according to your CPU cores
-[experimental]
-networkingMode=mirrored
-dnsTunneling=true
-firewall=true
+[wsl2]  
+memory=96GB # Adjust according to your system memory  
+processors=24 # Adjust according to your CPU cores  
+[experimental]  
+networkingMode=mirrored  
+dnsTunneling=true  
+firewall=true  
 autoProxy=true
 ```
 
@@ -137,9 +137,9 @@ It is possible to set up WSL to start automatically at boot. Note that non-admin
 1. Create a .wslconfig file in the current user's folder (C:\Users\Your User) in Windows and enter the following:
 ```shell
 [wsl2]
-networkingMode=bridged
-vmSwitch=WSLBridge # Match the name of the virtual switch
-ipv6=true # Optional
+networkingMode=bridged  
+vmSwitch=WSLBridge # Match the name of the virtual switch  
+ipv6=true # Optional  
 ```
 5. Repeat steps 6-8 from Mirrored Mode.
 6. Check the IP address with ifconfig; it should differ from the host machine.
