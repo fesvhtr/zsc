@@ -10,12 +10,12 @@ category: blog
 
 This tutorial is a unusual tutorial for special network condition, e.g. same IP problem when bridged mode used in same WIFI / Port problem in mirrored mode when connecting ethernet with cable
 
-# 中文版 Chinese Version
-## 参考教程
+### 中文版 Chinese Version
+#### 参考教程
 
-## 推荐环境
+#### 推荐环境
 Windows 11 22h3
-## 正常流程 
+#### 正常流程 
 1. 管理员身份打开wsl
 
 
