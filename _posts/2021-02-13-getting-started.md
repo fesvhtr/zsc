@@ -39,7 +39,6 @@ export PATH=/usr/lib/wsl/lib:$PATH
 [wsl2]
 memory=96GB # 根据自己的内存大小调整
 processors=24 # 根据自己的CPU核心数调整
-
 [experimental]
 networkingMode=mirrored
 dnsTunneling=true
@@ -109,13 +108,13 @@ export PATH=/usr/lib/wsl/lib:$PATH
 [wsl2]
 memory=96GB # Adjust according to your system memory
 processors=24 # Adjust according to your CPU cores
-
 [experimental]
 networkingMode=mirrored
 dnsTunneling=true
 firewall=true
 autoProxy=true
 ```
+
 6. For the first launch, click the Ubuntu icon directly. Later, you can use the wsl command in Windows Terminal to start it.
 1. Set the username and password as prompted.
 1. Update the software source with sudo apt update. Use sudo apt install to install required software.
