@@ -1,17 +1,25 @@
 ---
 layout: post
-title: Building your Own Scholarly Website
-excerpt: "A step-by-step guide to creating your own academic website with free hosting using GitHub and Jekyll"
-modified: 2/13/2021, 10:00:24
-tags: [intro, beginner, jekyll, tutorial]
+title: WSL configuration for AI Research GPU server / WSL配置AI科研服务器
+excerpt: "A step-by-step guide to set up WSL with mirrored or bridged networking mode"
+modified: 1/25/2025, 11:00:00
+tags: [WSL, tutorial]
 comments: true
 category: blog
 ---
 
-This tutorial (and this repository) is only a light customization on top of
-  [NC State University Library](https://www.lib.ncsu.edu/)'s great work with 
-  [Jekyll-Acamedic](https://ncsu-libraries.github.io/jekyll-academic-docs/workshop/).
+This tutorial is a unusual tutorial for special network condition, e.g. same IP problem when bridged mode used in same WIFI / Port problem in mirrored mode when connecting ethernet with cable
 
-Instructions are available in a shareable PDF [RCL Site Builder walkthrough](http://bit.ly/2YQLM9m) that we will continue to update in the future...
+# 中文版 Chinese Version
+## 参考教程
 
-Try out our [Form](/form) to start replacing our information with your own.
+## 推荐环境
+Windows 11 22h3
+## 正常流程 
+1. 管理员身份打开wsl
+
+
+
+
+
+# English Version
