@@ -13,8 +13,10 @@ This tutorial is a unusual tutorial for special network condition, e.g. same IP 
 ### 中文版 Chinese Version
 #### 参考教程
 
-#### 推荐环境
-Windows 11 22h3
+#### 环境要求
+Windows 11 22h2及以上
+WSL 2.0.0及以上
+
 #### 正常流程 
 1. 管理员身份打开wsl
 
