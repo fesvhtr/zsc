@@ -124,6 +124,7 @@ autoProxy=true
 1. Connect from another device in the same network using SSH: enter ssh username@ip.
 1. Shut down WSL using wsl --shutdown in Windows Terminal.  
 It is possible to set up WSL to start automatically at boot. Note that non-administrator accounts may encounter various permission issues. If permitted, you can add the current user to the administrator group.
+
 #### Notes on Mirrored Mode 
 1. Always shut down WSL using the wsl --shutdown command. Closing the window directly will not shut down WSL. Use wsl --list --verbose to check the WSL status.
 1. Since the host and virtual machine use the same IP, network connectivity issues may occur due to the host's network environment. You can try changing the SSH server port on the virtual machine and adding rules in the host firewall.
