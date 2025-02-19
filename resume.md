@@ -16,8 +16,9 @@ Bachelor of Science in Engineering
 
 
 ## Experience
+Aug 2024 - May 2025: Teaching Assistant in Khalifa University for COSC 202 DSAI.
 Mar 2023 - Aug 2024: Research Intern in MMLab@NTU, supervised by Prof. Ziwei Liu  
-Apr 2024 - Jun 2024: Resarch Intern in CityU, supervised by Prof. Zhichao Lu  
+Apr 2024 - Jun 2024: Research Intern in CityU, supervised by Prof. Zhichao Lu  
 Jul 2022 - Dec 2023: Research Intern in WITS Lab, supervised by Prof. Guoshun Nan  
 Apr 2023 - Dec 2023: Engineer Intern in China Petroleum Planning and Engineering Institute, CNPC  
 Oct 2022 - Mar 2023: Engineer Intern in Siemens Ltd
