@@ -7,6 +7,7 @@ I am a first year PhD student at [Khalifa University](https://www.ku.ac.ae/), su
 
 News
 ======
+[25.03] [Egolife](https://egolife-ai.github.io/) is accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).  
 [24.08] Join KU!  
 [24.07] FunQA is accepted to [ECCV 2024](https://eccv.ecva.net/).  
 [24.02] CUVA is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024).  
