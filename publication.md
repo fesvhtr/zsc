@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+[**Trade-offs in Image Generation: How Do Different Dimensions Interact?**]()  
+<span style="font-size: small;">**Sicheng Zhang<sup>*</sup>**, Binzhu Xie<sup>*</sup>, Zhonghao Yan<sup>*</sup>, Yuli Zhang, Donghao Zhou, Xiaofei Chen, Shi Qiu, Jiaqi Liu, Guoyang Xie, Zhichao Lu.  
+IEEE/CVF International Conference on Computer Vision (ICCV), 2025<span>  
+
 [**EgoLife: Towards Egocentric Life Assistant**](https://arxiv.org/abs/2503.03803)  
 <span style="font-size: small;">The EgoLife Team  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025<span>  
