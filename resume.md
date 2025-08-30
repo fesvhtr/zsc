@@ -8,7 +8,7 @@ layout: resume
 
 `2024 - 2029`
 __Khalifa University__
-PhD in Engineering
+PhD in Engineering, Department of Computer Science
 
 `2020 - 2024`
 __Queen Marry University of London__
@@ -23,6 +23,8 @@ Jul 2022 - Dec 2023: Research Intern in WITS Lab, supervised by Prof. Guoshun Na
 Apr 2023 - Dec 2023: Engineer Intern in CPPEI, PetroChina  
 Oct 2022 - Mar 2023: Engineer Intern in Siemens China  
 
+## Activities
+Reviewer: ACL ARR / AAAI
 
 
 
