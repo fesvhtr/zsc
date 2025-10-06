@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-[**Trade-offs in Image Generation: How Do Different Dimensions Interact?**]()  
+[**Trade-offs in Image Generation: How Do Different Dimensions Interact?**](https://arxiv.org/abs/2507.22100)  
 <span style="font-size: small;">**Sicheng Zhang<sup>*</sup>**, Binzhu Xie<sup>*</sup>, Zhonghao Yan<sup>*</sup>, Yuli Zhang, Donghao Zhou, Xiaofei Chen, Shi Qiu, Jiaqi Liu, Guoyang Xie, Zhichao Lu.  
 IEEE/CVF International Conference on Computer Vision (ICCV), 2025<span>  
 
