@@ -7,7 +7,7 @@ I am a second year PhD student at [Khalifa University](https://www.ku.ac.ae/), s
 
 News
 ======
-[25.06] [TRIG](https://github.com/fesvhtr/TRIG) is accepted to [ICCV 2025](https://iccv.thecvf.com/).  
+[25.06] [TRIG](https://arxiv.org/abs/2507.22100) is accepted to [ICCV 2025](https://iccv.thecvf.com/).  
 [25.05] We released [UniInd-FireSmoke Dataset](https://ieee-dataport.org/documents/uniind-firesmoke-unified-industrial-fire-smoke-dataset).  
 [25.03] [Egolife](https://egolife-ai.github.io/) is accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).  
 [24.08] Join KU!  
