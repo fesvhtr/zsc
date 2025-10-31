@@ -5,7 +5,7 @@ excerpt: "About Me..."
 
 I am a second-year PhD student at [Khalifa University](https://www.ku.ac.ae/), supervised by [Prof. Muzammal Naseer](https://muzammal-naseer.com/). My current research focuses on addressing fundamental challenges in MLLMs, with an emphasis on revisiting and improving their core components. I also keep a casual interest in AIGC models and cross-lingual AI.
 
-Prior to that, I received my BSc (Eng) degree with First Class Honours from [Queen Mary University of London](https://www.qmul.ac.uk/) in 2024. During undergraduate, My reseach focused on exploring and enhancing the capabilities of MLLMs in domain-specific understanding tasks, such as FunQA, CUVA, EgoLife. I enjoyed the opportunity to collaborate with [MMLab@NTU](https://www.mmlab-ntu.com/index.html), working closely with [Dr. Jingkang Yang](https://jingkang50.github.io/) and [Dr. Ziwei Liu](https://liuziwei7.github.io/) at that time.
+Prior to that, I received my BSc (Eng) degree with First Class Honours from [Queen Mary University of London](https://www.qmul.ac.uk/) in 2024. During undergraduate, my reseach focused on exploring and enhancing the capabilities of MLLMs in domain-specific understanding tasks, such as FunQA, CUVA, EgoLife. I enjoyed the opportunity to collaborate with [MMLab@NTU](https://www.mmlab-ntu.com/index.html), working closely with [Dr. Jingkang Yang](https://jingkang50.github.io/) and [Prof. Ziwei Liu](https://liuziwei7.github.io/) at that time.
 
 News
 ======
