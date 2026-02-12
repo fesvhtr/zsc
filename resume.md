@@ -11,7 +11,7 @@ __Khalifa University__
 PhD in Engineering, Department of Computer Science
 
 `2020 - 2024`
-__Queen Marry University of London__
+__Queen Mary University of London__
 Bachelor of Science in Engineering
 
 
