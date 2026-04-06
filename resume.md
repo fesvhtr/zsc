@@ -24,7 +24,7 @@ Apr 2023 - Dec 2023: Engineer Intern in CPPEI, PetroChina
 Oct 2022 - Mar 2023: Engineer Intern in Siemens China  
 
 ## Activities
-Reviewer: ACL ARR / AAAI
+Reviewer: ACL ARR / CVPR / ICLR / ECCV / AAAI
 
 
 
