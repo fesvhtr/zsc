@@ -9,7 +9,8 @@ Prior to that, I received my BSc (Eng) degree with First Class Honours from [Que
 
 News
 ======
-[26.01] EgoHandICL is accepted to [ICLR 2026](https://iclr.cc/).  
+[26.04] SAFIRE is accepted to [ACL 2026](https://2026.aclweb.org/).  
+[26.01] [EgoHandICL](https://arxiv.org/abs/2601.19850) is accepted to [ICLR 2026](https://iclr.cc/).  
 [25.06] [TRIG](https://arxiv.org/abs/2507.22100) is accepted to [ICCV 2025](https://iccv.thecvf.com/).  
 [25.05] We released [UniInd-FireSmoke Dataset](https://ieee-dataport.org/documents/uniind-firesmoke-unified-industrial-fire-smoke-dataset).  
 [25.03] [Egolife](https://egolife-ai.github.io/) is accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).  
