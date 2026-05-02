@@ -9,16 +9,18 @@ Prior to that, I received my BSc (Eng) degree with First Class Honours from [Que
 
 News
 ======
-[26.04] SAFIRE is accepted to [ACL 2026](https://2026.aclweb.org/).  
 [26.01] [EgoHandICL](https://arxiv.org/abs/2601.19850) is accepted to [ICLR 2026](https://iclr.cc/).  
 [25.06] [TRIG](https://arxiv.org/abs/2507.22100) is accepted to [ICCV 2025](https://iccv.thecvf.com/).  
-[25.05] We released [UniInd-FireSmoke Dataset](https://ieee-dataport.org/documents/uniind-firesmoke-unified-industrial-fire-smoke-dataset).  
+<details>
+<summary>Click to see previous news.</summary>
 [25.03] [Egolife](https://egolife-ai.github.io/) is accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).  
 [24.08] Join KU!  
 [24.07] FunQA is accepted to [ECCV 2024](https://eccv.ecva.net/).  
 [24.02] CUVA is accepted to [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024).  
 [23.12] DocMSU is accepted to [AAAI 2024](https://aaai.org/aaai-conference/).  
 [23.07] We released [FunQA Benchmark](https://funqa-benchmark.github.io/) and organized a [competition](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50154a0ed647faca623a&award=1,000,000).
+</details>
+
 
 
 
