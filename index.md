@@ -9,6 +9,7 @@ Prior to that, I received my BSc (Eng) degree with First Class Honours from [Que
 
 News
 ======
+[26.06] ReasonCLIP is accepted to [ECCV 2026](https://eccv.ecva.net/).  
 [26.01] [EgoHandICL](https://arxiv.org/abs/2601.19850) is accepted to [ICLR 2026](https://iclr.cc/).  
 [25.06] [TRIG](https://arxiv.org/abs/2507.22100) is accepted to [ICCV 2025](https://iccv.thecvf.com/).  
 [25.03] [Egolife](https://egolife-ai.github.io/) is accepted to [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).   
