@@ -4,7 +4,7 @@ title: Publications
 ---
 
 [**ReasonCLIP-58M: Visually Grounded Commonsense Reasoning Supervision for CLIP**]()  
-<span style="font-size: small;">**Sicheng Zhang**, Muzammal Naseer, Binzhu Xie, Naufal Suryanto, Shi Qiu, Jamal Bentahar, NAVEED AKHTAR, Mubarak Shah.  
+<span style="font-size: small;">**Sicheng Zhang**, Muzammal Naseer, Binzhu Xie, Naufal Suryanto, Shi Qiu, Jamal Bentahar, Naveed Akhtar, Mubarak Shah.  
 European Conference on Computer Vision (ECCV), 2026<span>  
 
 [**Trade-offs in Image Generation: How Do Different Dimensions Interact?**](https://arxiv.org/abs/2507.22100)  
